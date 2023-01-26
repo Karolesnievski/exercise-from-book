@@ -1,5 +1,9 @@
 'sam'.upper()
-def add_mult(a,b,c,x=100,z=1000):
-    return a + b + c * x * z    
-result = add_mult(10, 15, 25)
-print(result)
+
+def sth (x):
+    if x < 10:
+        print("hihihi")
+    elif x >= 10:
+        print("huhuuhuh")
+sth(10)
+
