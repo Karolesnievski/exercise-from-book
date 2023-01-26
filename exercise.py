@@ -15,3 +15,7 @@ def hts (x):
     elif x > 25:
         print("giga") 
 hts(11)
+
+def tsh (x, z):
+    print(x / z)
+tsh(5, 2)
